@@ -3,8 +3,8 @@ Covers All The Feature Selection Techniques , And You Can Select The Appropriate
 
 ## This Contains 5 Techniques.....
 
-### 1. Dropping Constant Features
-### 2. Dropping Highly Correlated Variables 
-### 3. mutual information In Classification
-### 4. nformation gain - mutual information In Regression
-### 5. Chi Square For Feature
+### 1]. Dropping Constant Features
+### 2]. Dropping Highly Correlated Variables 
+### 3]. mutual information In Classification
+### 4]. nformation gain - mutual information In Regression
+### 5]. Chi Square For Feature
